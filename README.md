@@ -37,6 +37,7 @@ npm install dotenv
 
 Create a file named `.env` in your project directory and add the following variables:
 
+
 ```plaintext
 API_KEY=
 SERVER_SECRET=
